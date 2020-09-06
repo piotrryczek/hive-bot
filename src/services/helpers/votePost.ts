@@ -1,7 +1,7 @@
 import { PrivateKey } from '@hiveio/dhive';
 
-import client from './client';
-import logger from './logger';
+import client from 'services/client';
+import logger from 'services/logger';
 
 export default async (author, permlink) => {
   if (!process.env.SENDER_ACCOUNT_NAME || !process.env.SENDER_ACCOUNT_KEY || !author) throw new Error('Lack of data for voting');

@@ -8,3 +8,120 @@
 2020-09-06 15:15:12: RPCError: Internal Error
 2020-09-06 15:16:40: Claim reward: 2341.609474 VESTS
 2020-09-06 15:22:09: Claim reward: 2340.609474 VESTS
+2020-09-06 18:11:01: Bot started
+2020-09-06 21:10:43: Bot started
+2020-09-06 21:11:23: Bot started
+2020-09-06 21:11:42: Bot started
+2020-09-06 21:13:46: Bot started
+2020-09-06 21:13:53: Bot started
+2020-09-06 21:15:16: Bot started
+2020-09-06 22:43:48: App started
+2020-09-06 22:43:57: /status
+2020-09-06 22:44:30: /status
+2020-09-06 22:44:49: /startAll
+2020-09-06 22:44:52: /status
+2020-09-06 22:44:59: /stopAll
+2020-09-06 22:45:02: /status
+2020-09-06 22:45:26: App started
+2020-09-06 22:45:28: /status
+2020-09-06 22:45:43: /stopAll
+2020-09-06 22:45:47: /status
+2020-09-06 22:46:28: App started
+2020-09-06 22:46:30: App started
+2020-09-06 22:46:39: /status
+2020-09-06 22:46:43: App started
+2020-09-06 22:46:46: /status
+2020-09-06 22:46:49: /stopAll
+2020-09-06 22:46:51: /status
+2020-09-06 22:46:57: App started
+2020-09-06 22:47:03: /status
+2020-09-06 22:47:32: /status
+2020-09-06 22:47:35: /stopAll
+2020-09-06 22:47:36: /status
+2020-09-06 22:47:46: /startAll
+2020-09-06 22:47:50: /status
+2020-09-06 22:48:20: /stopAll
+2020-09-06 22:48:31: /claimRewards
+2020-09-06 22:48:31: startClaimingRewardProcess
+2020-09-06 22:48:32: Error: None of rewards is above 0
+2020-09-06 22:49:01: App started
+2020-09-06 22:49:02: /claimRewards
+2020-09-06 22:49:02: startClaimingRewardProcess
+2020-09-06 22:49:03: Error: None of rewards is above 0
+2020-09-06 22:49:04: /claimRewards
+2020-09-06 22:49:04: startClaimingRewardProcess
+2020-09-06 22:49:05: Error: None of rewards is above 0
+2020-09-06 22:49:13: App started
+2020-09-06 22:49:15: /claimRewards
+2020-09-06 22:49:15: startClaimingRewardProcess
+2020-09-06 22:49:16: Error: None of rewards is above 0
+2020-09-06 22:49:36: App started
+2020-09-06 22:49:38: /claimRewards
+2020-09-06 22:49:38: startClaimingRewardProcess
+2020-09-06 22:49:40: Error: None of rewards is above 0
+2020-09-06 22:50:47: /status
+2020-09-06 22:50:48: /status
+2020-09-06 22:50:49: /status
+2020-09-06 22:51:02: App started
+2020-09-06 22:51:04: /status
+2020-09-06 22:51:05: /status
+2020-09-06 22:51:05: /status
+2020-09-06 22:51:06: /status
+2020-09-06 22:51:58: App started
+2020-09-06 22:52:07: App started
+2020-09-06 22:52:09: /status
+2020-09-06 22:52:46: App started
+2020-09-06 22:52:49: /status
+2020-09-06 22:52:51: /claimRewards
+2020-09-06 22:52:51: startClaimingRewardProcess
+2020-09-06 22:52:52: /claimRewards
+2020-09-06 22:52:52: startClaimingRewardProcess
+2020-09-06 22:52:52: Error: None of rewards is above 0
+2020-09-06 22:52:53: Error: None of rewards is above 0
+2020-09-06 22:52:54: /claimRewards
+2020-09-06 22:52:54: startClaimingRewardProcess
+2020-09-06 22:52:56: Error: None of rewards is above 0
+2020-09-06 22:53:13: App started
+2020-09-06 22:53:14: /claimRewards
+2020-09-06 22:53:14: startClaimingRewardProcess
+2020-09-06 22:53:15: Error: None of rewards is above 0
+2020-09-06 22:53:40: App started
+2020-09-06 22:53:59: App started
+2020-09-06 22:54:03: App started
+2020-09-06 22:54:06: /claimRewards
+2020-09-06 22:54:06: startClaimingRewardProcess
+2020-09-06 22:54:08: /claimRewards
+2020-09-06 22:54:08: startClaimingRewardProcess
+2020-09-06 22:54:47: App started
+2020-09-06 22:56:32: App started
+2020-09-06 22:57:52: App started
+2020-09-06 22:57:54: /claimRewards
+2020-09-06 22:57:54: startClaimingRewardsProcess
+2020-09-06 22:58:35: App started
+2020-09-06 22:58:39: /claimRewards
+2020-09-06 22:58:39: Error: Gowno
+2020-09-06 22:58:54: App started
+2020-09-06 22:58:55: /claimRewards
+2020-09-06 22:58:55: Error: Gowno
+2020-09-06 23:00:00: CronJob for: postingAndVotingJob
+2020-09-06 23:00:00: startPostingAndVotingProcess
+2020-09-06 23:00:07: Comment: tusieukrywam: f17eebb2-f952-4f29-968e-a6373fc137dc
+2020-09-06 23:00:14: Vote: tusieukrywam: f17eebb2-f952-4f29-968e-a6373fc137dc
+2020-09-06 23:08:45: App started
+2020-09-06 23:08:46: /claimRewards
+2020-09-06 23:08:46: startClaimingRewardsProcess
+2020-09-06 23:08:47: Error: None of rewards is above 0
+2020-09-06 23:09:00: App started
+2020-09-06 23:21:28: /claimRewards
+2020-09-06 23:21:28: startClaimingRewardsProcess
+2020-09-06 23:21:29: Error: None of rewards is above 0
+2020-09-06 23:21:31: /status
+2020-09-06 23:21:34: /stopAll
+2020-09-06 23:21:37: /status
+2020-09-06 23:21:41: /startAll
+2020-09-06 23:22:32: App started
+2020-09-06 23:22:39: /postAndVote
+2020-09-06 23:22:39: startPostingAndVotingProcess
+2020-09-06 23:22:42: RPCError: Account: tusieukrywam has 94716655 RC, needs 888769480 RC. Please wait to transact, or power up HIVE.
+2020-09-06 23:22:46: Comment: tutezsieukrywam: 08ddb333-c3ee-40e0-9427-c2296335dc18
+2020-09-06 23:22:52: Vote: tutezsieukrywam: 08ddb333-c3ee-40e0-9427-c2296335dc18

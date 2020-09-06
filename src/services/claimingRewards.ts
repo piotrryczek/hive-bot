@@ -3,11 +3,17 @@ import {
   Asset,
 } from '@hiveio/dhive';
 
-import client from './client';
-import getAccountData from './getAccountData';
-import logger from './logger';
+import client from 'services/client';
+import logger from 'services/logger';
+
+import getAccountData from 'services/helpers/getAccountData';
 
 export default async () => {
+  logger.log({
+    level: 'info',
+    message: 'startClaimingRewardsProcess',
+  });
+
   if (!process.env.SENDER_ACCOUNT_KEY || !process.env.SENDER_ACCOUNT_NAME) throw new Error('Lack of enviroment variables data');
 
   const senderAccountData = await getAccountData();
